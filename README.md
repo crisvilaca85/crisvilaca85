@@ -8,4 +8,4 @@ _Me chamo Cristiano Vilaça_
 
 :white_check_mark: Estou participando do curso **FORMADORES EM AÇÃO 2022**
 
-:e-mail: Meu e-mail: cristiano.nascimento2escola.pr.gov.br
+:e-mail: Meu e-mail: cristiano.nascimento@escola.pr.gov.br
